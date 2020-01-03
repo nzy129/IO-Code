@@ -1,3 +1,3 @@
-# IO-Code
-HT 2003 Auction
+# IO-Code HT 2003 Auction
+
 Code for empirical io replications 
